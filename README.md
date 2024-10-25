@@ -8,6 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-%2312100E?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-%2312100E?style=flat&logo=microsoftsqlserver&logoColor=%23CC2927)
 ![Pandas](https://img.shields.io/badge/Pandas-%2312100E?style=flat&logo=pandas)
+![Laravel](https://img.shields.io/badge/Laravel-%2312100E?style=flat&logo=Laravel)
+
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E?style=flat&logo=jupyter)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
